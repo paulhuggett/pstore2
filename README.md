@@ -6,6 +6,8 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=SNSystems_pstore&metric=alert_status)](https://sonarcloud.io/dashboard?id=SNSystems_pstore)
 [![Language grade: C/C++](https://img.shields.io/lgtm/grade/cpp/g/SNSystems/pstore.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/SNSystems/pstore/context:cpp)
 
+[![Documentation](https://codedocs.xyz/paulhuggett/pstore2.svg)](https://codedocs.xyz/paulhuggett/pstore2)
+
 pstore is a lightweight persistent append-only key/value store intended for use as a back-end for the [LLVM Program Repository](https://github.com/SNSystems/llvm-project-prepo).
 
 Its design goals are:
