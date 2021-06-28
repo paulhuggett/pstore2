@@ -37,8 +37,10 @@ else ()
 
     add_pstore_tool (pstore-brokerd
         main.cpp
-        switches.hpp
+        run_broker.cpp
+        run_broker.hpp
         switches.cpp
+        switches.hpp
         "${pstore_http_fs_source}"
     )
 
