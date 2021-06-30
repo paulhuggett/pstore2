@@ -1,0 +1,1 @@
+EXCLUDE_PATTERNS = */3rd_party/* */unittests/*
